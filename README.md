@@ -32,7 +32,7 @@
 </head>
 <body>
 <img src="SEC.png"width="1000" height="150" align="center">
-<h1 style="text-align:center">SLOT TIME TABLE-SANJANA L(22005858)</h1>
+<h1 style="text-align:center">SLOT TIME TABLE-JEEVITHA P(22003828)</h1>
 <table border=1px solid black width="100%">
 <tr style="background-color:yellow">
 <th>Day/Time</th>
