@@ -83,7 +83,8 @@
 </html>
 ~~~
 ## OUTPUT
-![EX 03 SLOT TIME TABLE](https://user-images.githubusercontent.com/127817091/233404154-9d0e3f13-a368-4f8e-9167-b2b5d3b6c0c8.png)
+![slot  time table](https://user-images.githubusercontent.com/127817091/233645783-d9607d9b-5428-4c76-8bf4-7135fc93b6ab.png)
+
 
 
 ## RESULT
